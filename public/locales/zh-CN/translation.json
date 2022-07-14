@@ -1,0 +1,20 @@
+{
+  "label": {
+    "studentName": "学生名字",
+    "score": "分数",
+    "class": "班级",
+    "createRecord": "新建记录",
+    "scoreFrom": "从",
+    "scoreTo": "到",
+    "filter": "过滤",
+    "clear": "清除",
+    "delete": "删除"
+  },
+  "form": {
+    "validate": {
+      "inputStudentName": "请输入学生名",
+      "inputScore": "请输入分数",
+      "selectClass": "请选择班级"
+    }
+  }
+}

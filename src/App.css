@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+
+.main-content {
+    max-width: 1280px;
+    margin: auto;
+    padding: 30px;
+}
+
+.main-content.mobile {
+    padding: 10px;
+}
+
+th {
+    white-space: nowrap;
+}

@@ -1,0 +1,20 @@
+{
+  "label": {
+    "studentName": "Student Name",
+    "score": "Score",
+    "class": "Class",
+    "createRecord": "Create Record",
+    "scoreFrom": "ScoreFrom",
+    "scoreTo": "scoreTo",
+    "filter": "Filter",
+    "clear": "Clear",
+    "delete": "Delete"
+  },
+  "form": {
+    "validate": {
+      "inputStudentName": "Please input student name",
+      "inputScore": "Please input score",
+      "selectClass": "Please select class"
+    }
+  }
+}
